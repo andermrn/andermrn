@@ -1,59 +1,52 @@
-# Eai, meu nome é Anderson👋
-
-Atualmente estudando:
-- Lógica de Programação
-- C++
-- Estruturas de Dados
-- Git e GitHub
-
-Projetos:
-- Calculadora em C++
-- Sistema de Clínica
-- Terminal-Insta
-
-Objetivo:
-Me tornar desenvolvedor de software e construir projetos cada vez mais completos.
-
----
-
-## Estatísticas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00406f"/>
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andermrn&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andermrn&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <p>システムアナリスト</p>
 </div>
 
----
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=00406f&width=900&size=30&center=true&lines=Hello!+My+name+is+Ander;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-## Tecnologias
-
+<br>
+<br>
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/>
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andermrn&theme=jolly&bg_color=111c26&title_color=4f9ac4&text_color=c9d1d9&icon_color=4f9ac4&border_color=1d3b50) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andermrn&theme=jolly&bg_color=111c26&title_color=4f9ac4&text_color=c9d1d9&icon_color=4f9ac4&border_color=1d3b50) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andermrn&theme=jolly&utcOffset=-3&bg_color=111c26&title_color=4f9ac4&text_color=c9d1d9&icon_color=4f9ac4&chart_color=4f9ac4&border_color=1d3b50) |
+| :-: | :-: | :-: |
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andermrn&theme=jolly&bg_color=111c26&title_color=4f9ac4&text_color=c9d1d9&icon_color=4f9ac4&chart_color=4f9ac4&border_color=1d3b50) | [![GitHub Streak](https://streak-stats.demolab.com/?user=andermrn&theme=dark&hide_border=true&background=111c26&ring=4f9ac4&fire=176b9c&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4f9ac4&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats) |
+| :-: | :-: |
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
+  <p align="center">
 
+<a href="mailto:andermrn84@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-00406f?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/ander.mrn?stkn=MWtrdDRpcDRoOHU0ag%3D%3D&utm_source=qr">
+<img src="https://img.shields.io/badge/Instagram-00406f?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/andermrn2004">
+<img src="https://img.shields.io/badge/LinkedIn-00406f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+  
+  
 </div>
 
----
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  
+</div>
 
-## Atualmente
 
-🔹 Desenvolvendo projetos em C++
-
-🔹 Aprendendo Estruturas de Dados
-
-🔹 Aprimorando lógica de programação
-
-🔹 Construindo portfólio para estágio na área de tecnologia
-
----
-
-## Contato
-
-- GitHub: https://github.com/andermrn
